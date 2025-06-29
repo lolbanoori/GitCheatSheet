@@ -54,5 +54,5 @@ Suggestions and improvements welcome via pull requests or issues.
 
 ## 🔗 Download
 
-> 📄 [Git_Cheat_Sheet.pdf](Git_Cheat_Sheet.pdf)  
-> 📝 [Git_Cheat_Sheet.docx](Git_Cheat_Sheet.docx)
+> [📄 Git Cheat Sheet.pdf](Git%20Cheat%20Sheet.pdf) — Printable version  
+> [📝 Git Cheat Sheet.docx](Git%20Cheat%20Sheet.docx) — Editable source  

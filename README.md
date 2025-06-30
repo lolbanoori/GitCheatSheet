@@ -16,33 +16,41 @@ Intended for developers, students, and teams who want a quick reference for dail
 
 ## 📘 Sections Included
 
-- Installation & GUI Tools
-- Setup & Initialization
-- Basic Git Commands (add, commit, reset, etc.)
+- Installation & GUIs 
+- Setup 
+- Create & Initialize
+- Stage & Snapshot
 - Undoing Changes
-- Branching and Merging
-- Synchronizing with Remotes
-- Stashing Temporary Changes
-- File Renames and Deletes
-- Comparing Commits and Diffs
-- Rewriting History (rebase, reset)
-- Ignoring Files
-- SHA-1 Hashing and Git Internals
-- Definitions of Common Git Terms
-- GitHub Interaction Basics
+- Branch & Merge
+- Share & Update
+- Temporary Commits 
+- Tracking Path Changes
+- Inspect and Compare
+- Rewrite History
+- Ignoring Patterns
+- SHA-1 & Objects
+- Merge Conflicts Resolution Guide
+- Git Forks and Pull Requests Guide
+- Code Reviews Guide
+- Glossary
+- Education
 
 ---
 
 ## 📂 Files
 
-- `Git_Cheat_Sheet.pdf` — Printable and shareable version  
-- `Git_Cheat_Sheet.docx` — Editable source file  
+- `Git Cheat Sheet.pdf` — Printable and shareable version  
+- `Git Cheat Sheet.docx` — Editable source file  
+- `Alphabetic Glossary.pdf` — Alphabetic glossary directly from the Coursera course 
 
 ---
 
-## 📜 License
+## 📚 Acknowledgment
 
-This project is released under the [MIT License](LICENSE).
+Most of the content in this cheat sheet is based on the excellent material provided in the ***Google*** course **“Introduction to Git and GitHub”** on **Coursera**.  
+The glossary section includes terms and definitions sourced from the course readings.  
+Additionally, `Alphabetic_Glossary.pdf` is a direct extract from the course content and includes attribution and a reference link to the course itself.  
+All credit to the original course creators.
 
 ---
 
@@ -56,3 +64,4 @@ Suggestions and improvements welcome via pull requests or issues.
 
 > [📄 Git Cheat Sheet.pdf](Git%20Cheat%20Sheet.pdf) — Printable version  
 > [📝 Git Cheat Sheet.docx](Git%20Cheat%20Sheet.docx) — Editable source  
+> [📘 Alphabetic Glossary.pdf](Alphabetic%20Glossary.pdf) — Official glossary from Coursera course
